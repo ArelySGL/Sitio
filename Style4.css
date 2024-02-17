@@ -1,37 +1,37 @@
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-    
-}
 h1 {
     font-size: 45px;
     font-family: Times, serif;
-} 
-.violin{ 
-    max-width: 45%;
-    float: left; 
-}
-h2{
-    font-size: 30px;
-    font-family: Times, serif; 
     text-align: center;
-}
+} 
+ 
+h2 {
+    font-size: 40px;
+    font-family: Times, serif;
+    text-align: center;
+} 
 p{
     font-size: 18px;
     font-family: arial;
     text-align: justify;
 }
+.oficina {
+    max-width: 102%;
+}
+.ropa {
+    max-width: 100%;
+}
+.ropa2 {
+    max-width: 100%;
+}
 table {
-    width: 100%;
+    width: 50%;
     border-collapse: collapse;
     margin-top: 20px;
 }
 th, td {
     border: 1px solid #ddd;
     padding: 6px;
-    text-align: left;
+    text-align: center;
 }
 th {
     background-color: #f2f2f2;
