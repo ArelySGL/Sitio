@@ -1,0 +1,68 @@
+header {
+    background-color: #061a58;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
+h1 {
+    font-size: 45px;
+    font-family: Times, serif;
+}
+.viaje {
+    max-width: 45%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+h2 {
+    font-size: 35px;
+    font-family: Times, serif;
+    text-align: center;
+}
+.intermex {
+    max-width: 42%;
+    float: left; 
+}
+p {
+    font-size: 18px;
+    font-family: arial;
+    text-align: justify;
+}
+table {
+    width: 30%;
+    margin-top: 5px;
+    border-collapse: collapse;
+    float: center;
+}
+th, td {
+    border: 1px solid #333333;
+    padding: 3px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+.Exmar {
+    max-width: 42%;
+    float: left; 
+}
+.container {
+    table {
+        width: 50%;
+        margin-top: 1px;
+        border-collapse: collapse;
+        float: center;
+    }
+    th, td {
+        border: 1px solid #000000;
+        padding: 1px;
+        text-align: center;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+}
+.travel {
+    max-width: 16%;
+    float: left; 
+}
